@@ -1,0 +1,27 @@
+{
+  "name": "styleguide",
+  "version": "1.0.0",
+  "description": "Style guides for Google-originated open-source projects",
+  "homepage": "https://github.com/Lost-Coast-Developers/styleguide#readme",
+  "bugs": {
+    "url": "https://github.com/Lost-Coast-Developers/styleguide/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lost-Coast-Developers/styleguide.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^11.0.5",
+    "@semantic-release/npm": "^12.0.2",
+    "semantic-release": "^24.2.7"
+  }
+}
