@@ -1,2 +1,2 @@
 # styleguide
-Style guides for Lost Coast Developer projects
+Style guides for Lost Coast Developer projects and such.
