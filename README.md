@@ -1,2 +1,2 @@
 # styleguide
-Style guides for Google-originated open-source projects
+Style guides for Lost Coast Developer projects
